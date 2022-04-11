@@ -40,10 +40,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/RounakTadvi"><img src="https://avatars.githubusercontent.com/u/38634459?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rounak Tadvi</b></sub></a><br /><a href="#maintenance-RounakTadvi" title="Maintenance">🚧</a> <a href="https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard/commits?author=RounakTadvi" title="Code">💻</a></td>    
   </tr>
 </table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
